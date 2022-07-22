@@ -1,0 +1,4 @@
+classes= 80
+names = /data/yolo/coco.names
+eval=coco
+
